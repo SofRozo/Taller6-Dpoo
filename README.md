@@ -12,17 +12,16 @@ Pasos para hacerlo.
 1. Bajar zip o clonar proyecto.
 2. Navegar en Explorador de Archivos hasta el proyecto.
 3. Dar clic en TALLER2-DPOO-main
- ![Captura de pantalla 2023-05-19 193054](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/ccd0ec9c-926f-48fb-8511-03c4b80c3efb)
+ ![Captura de pantalla 2023-05-19 193054](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/7c7881fd-3e7a-4ae7-8b4b-0b54484735fa)
 4. Dar clic a TALLER 2.
- ![Captura de pantalla 2023-05-19 193127](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/c9e0c889-76f3-4923-b884-ec5958d096b2)
+ ![Captura de pantalla 2023-05-19 193127](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/f8583bc8-1e73-4eb5-9274-4cd3aded3867)
 5. Continuar hasta llegar a y se le da clic en la carpeta src:
- ![Captura de pantalla 2023-05-19 193206](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/cb4db450-f43c-481d-afdc-985faaff56b9)
+ ![Captura de pantalla 2023-05-19 193206](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/47617a43-b8bc-4ed3-8586-666f9864c90f)
 6. Al acceder a la carpeta data contenida en src se encuentran los archivos
- ![Captura de pantalla 2023-05-19 193246](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/c3eefb67-7c28-4f93-a2c9-41d476cf7d3a)
+ ![Captura de pantalla 2023-05-19 193246](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/4d74b9eb-45c0-45d7-9064-aa1a7545f13f)
 7. Se le da clic derecho a cada archivo y se copia su ruta de acceso
- ![Captura de pantalla 2023-05-19 193316](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/99b8f775-7ae7-4132-a6fc-b10e2c6f09da)
-8. Se actualiza en el proyecto
- ![Captura de pantalla 2023-05-19 192928](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/94840051-5719-439a-8723-202e719d65ab)
-
+ ![Captura de pantalla 2023-05-19 193316](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/03a45e94-fddc-49fb-b8fc-09d70f7a6366)
+8. Se actualiza en el proyecto en la clase Aplicación.
+ ![Captura de pantalla 2023-05-19 192928](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/28fff5d7-2517-4e8b-a55a-0b0a141cb758)
 
 
