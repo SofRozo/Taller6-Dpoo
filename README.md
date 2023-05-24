@@ -1,7 +1,7 @@
 # TALLER2-DPOO2023
 Taller DPOO Burgers + Pruebas Unitarias
 
-HOLA! Para más información sobre las clases del taller 6 revisar PDF.
+HOLA! Para más información sobre las clases del taller 6 y cobertura de pruebas revisar PDF.
 
 Para ejecutar debe cambiar el path de los archivos de texto, para eso en la clase Aplicacion con la ubicacion de los archivos de texto.
 Ejemplo:
@@ -22,6 +22,7 @@ Pasos para hacerlo.
  ![image](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/18db1619-9875-4e42-8ac2-6f51c28a1338)
 8. Se actualiza en el proyecto
  ![image](https://github.com/SofRozo/Taller6-Dpoo/assets/111070857/971318e8-2738-41bd-bc6b-155205410fe0)
+
 
 
 
